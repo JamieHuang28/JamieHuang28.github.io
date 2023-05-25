@@ -1,2 +1,2 @@
 # JamieWong.github.io
-theme: Cayman
+Music, Design and Robotics are three support of my life.
