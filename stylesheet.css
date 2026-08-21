@@ -1,0 +1,126 @@
+a {
+  color: #1772d0;
+  text-decoration: none;
+}
+
+a:focus,
+a:hover {
+  color: #f09228;
+  text-decoration: none;
+}
+
+body,
+p,
+a,
+strong {
+  font-family: 'Lato', Verdana, Helvetica, sans-serif;
+  font-size: 14px;
+}
+
+body {
+  margin: 0;
+}
+
+.page {
+  width: 100%;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.profile {
+  display: table;
+  width: 100%;
+  border-collapse: separate;
+}
+
+.profile-bio,
+.profile-photo {
+  display: table-cell;
+  vertical-align: middle;
+  padding: 2.5%;
+}
+
+.profile-bio {
+  width: 63%;
+}
+
+.profile-photo {
+  width: 37%;
+}
+
+.profile-name {
+  text-align: center;
+  font-size: 32px;
+  margin: 0 0 1em;
+}
+
+.profile-links {
+  text-align: center;
+}
+
+.nav-tabs {
+  text-align: center;
+}
+
+.nav-tabs a {
+  font-size: 16px;
+}
+
+.nav-tabs a.active {
+  font-weight: 700;
+  border-bottom: 2px solid #1772d0;
+  padding-bottom: 2px;
+}
+
+.cover-photo {
+  width: 100%;
+  max-width: 100%;
+}
+
+.page-body {
+  padding: 0 20px 20px;
+}
+
+.page-body h2 {
+  font-family: 'Lato', Verdana, Helvetica, sans-serif;
+  font-size: 22px;
+  font-weight: normal;
+  margin: 20px 0 8px;
+}
+
+.page-body h3 {
+  font-family: 'Lato', Verdana, Helvetica, sans-serif;
+  font-size: 14px;
+  font-weight: 700;
+  margin: 16px 0 8px;
+}
+
+.page-body p {
+  margin: 0 0 1em;
+}
+
+.page-body img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: 8px 0 16px;
+}
+
+.site-footer {
+  text-align: center;
+  font-size: small;
+  padding: 0 20px 20px;
+}
+
+span.highlight {
+  background-color: #ffffd0;
+}
+
+@media screen and (max-width: 640px) {
+  .profile-bio,
+  .profile-photo {
+    display: block;
+    width: 100%;
+    box-sizing: border-box;
+  }
+}

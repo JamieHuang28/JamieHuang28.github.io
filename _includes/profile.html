@@ -1,0 +1,22 @@
+{% assign profile = site.data.profile %}
+<div class="profile">
+  <div class="profile-bio">
+    <p class="profile-name">{{ profile.name }}</p>
+    {% for paragraph in profile.bio %}
+    <p>{{ paragraph }}</p>
+    {% endfor %}
+    <p>{{ site.description }}</p>
+    <p class="profile-links">
+      <a href="mailto:{{ profile.email }}">Email</a> &nbsp;/&nbsp;
+      <a href="{{ profile.github }}">Github</a>
+    </p>
+    <p class="nav-tabs">
+      <a href="{{ '/' | relative_url }}" class="{% if page.tab == 'home' %}active{% endif %}">Home</a>
+      &nbsp;|&nbsp;
+      <a href="{{ '/interests.html' | relative_url }}" class="{% if page.tab == 'interests' %}active{% endif %}">Personal Interest</a>
+    </p>
+  </div>
+  <div class="profile-photo">
+    <img class="cover-photo" src="{{ profile.cover_photo | relative_url }}" alt="{{ profile.name }}">
+  </div>
+</div>
