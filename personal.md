@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Personal Interest
-tab: interests
-permalink: /interests.html
+title: Personal
+tab: personal
+permalink: /personal.html
 ---
 
 ## Personal Interest

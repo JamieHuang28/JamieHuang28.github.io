@@ -10,7 +10,7 @@ Although the project [NeuralTalk2](https://github.com/karpathy/neuraltalk2) impl
 
 [VisualLanguageAlignment(github)](https://github.com/JamieHuang28/VisualLanguageAlignment)
 
-![vla_train_figure](./resources/evaluate_overfit.gif)
+![vla_train_figure](./resources/eval_train.png)
 
 ## 1st Prize in 4th Design Competition of Petroleum Equipment (9%, National Level)
 
