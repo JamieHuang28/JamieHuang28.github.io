@@ -107,6 +107,12 @@ body {
   margin: 8px 0 16px;
 }
 
+.tab-home img {
+  width: 60%;
+  max-width: 60%;
+  margin: 8px auto 16px;
+}
+
 .site-footer {
   text-align: center;
   font-size: small;

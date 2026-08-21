@@ -11,12 +11,9 @@
   <body>
     <div class="page">
       {% include profile.html %}
-      <div class="page-body">
+      <div class="page-body{% if page.tab %} tab-{{ page.tab }}{% endif %}">
         {{ content }}
       </div>
-      <p class="site-footer">
-        <a href="https://github.com/jonbarron/jonbarron_website">Website template</a>
-      </p>
     </div>
   </body>
 </html>
