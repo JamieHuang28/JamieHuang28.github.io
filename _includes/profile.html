@@ -2,10 +2,10 @@
 <div class="profile">
   <div class="profile-bio">
     <p class="profile-name">{{ profile.name }}</p>
-    {% for paragraph in profile.bio %}
-    <p>{{ paragraph }}</p>
-    {% endfor %}
-    <p>{{ site.description }}</p>
+    {% assign bio_page = site.pages | where: "path", "bio.md" | first %}
+    {% if bio_page %}
+    {{ bio_page.content }}
+    {% endif %}
     <p class="profile-links">
       <a href="mailto:{{ profile.email }}">Email</a> &nbsp;/&nbsp;
       <a href="{{ profile.github }}">Github</a>

@@ -5,7 +5,7 @@ tab: awards
 permalink: /awards.html
 ---
 
-# Undergraduate
+# Undergraduate(2012-2016)
 
 ## 2nd Place in RoboCup 2015 Humanoid League (International Level)
 
@@ -19,6 +19,6 @@ Propose a service of portrait painting on web. In this service, user upload thei
 
 ![PROW scheme](./resources/PROW_scheme.png)
 
-# High School
+# High School(2009-2012)
 
 3rd Place (Province Level) in Physics Competition in senior high school, therefore recommended to THU (Biological Department) & PKU (Medical Department) & SJTU & ZJU without examination.
