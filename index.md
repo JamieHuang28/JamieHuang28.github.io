@@ -2,8 +2,6 @@
 layout: default
 ---
 
-# Jamie Wong
-
 ## Working Experience
 
 ### Horizon Robotics Co., Ltd. (2 years)
