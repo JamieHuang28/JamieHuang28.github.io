@@ -81,6 +81,7 @@ body {
   padding: 0 20px 20px;
 }
 
+.page-body h1,
 .page-body h2 {
   font-family: 'Lato', Verdana, Helvetica, sans-serif;
   font-size: 22px;
