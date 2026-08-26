@@ -59,11 +59,18 @@ body {
 }
 
 .nav-tabs {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  width: 100%;
+  box-sizing: border-box;
+  margin: 0 0 1em;
+  padding: 8px 2.5% 16px;
   text-align: center;
 }
 
 .nav-tabs a {
-  font-size: 32px;
+  font-size: 14px;
 }
 
 .nav-tabs a.active {
@@ -74,7 +81,13 @@ body {
 
 .cover-photo {
   width: 100%;
-  max-width: 100%;
+  max-width: 240px;
+  aspect-ratio: 1;
+  object-fit: cover;
+  object-position: center;
+  border-radius: 50%;
+  display: block;
+  margin-left: auto;
 }
 
 .page-body {
@@ -100,6 +113,42 @@ body {
   margin: 0 0 1em;
 }
 
+.project-list {
+  width: 100%;
+  border: 0;
+  border-spacing: 0;
+  border-collapse: separate;
+  margin: 0;
+}
+
+.project-list td {
+  padding: 20px;
+  vertical-align: middle;
+}
+
+.project-thumb {
+  width: 25%;
+}
+
+.project-body {
+  width: 75%;
+}
+
+.project-title {
+  font-family: 'Lato', Verdana, Helvetica, sans-serif;
+  font-size: 14px;
+  font-weight: 700;
+}
+
+.project-list p {
+  margin: 0.6em 0 0;
+}
+
+.project-list ul {
+  margin: 0.4em 0 0;
+  padding-left: 1.2em;
+}
+
 .page-body img {
   display: block;
   max-width: 100%;
@@ -114,8 +163,8 @@ body {
   margin: 8px auto 16px;
 }
 
-.tab-projects table img {
-  width: 160px;
+.tab-projects .project-list img {
+  width: auto;
   max-width: 100%;
   margin: 0;
 }

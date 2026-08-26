@@ -10,17 +10,14 @@
       <a href="mailto:{{ profile.email }}">Email</a> &nbsp;/&nbsp;
       <a href="{{ profile.github }}">Github</a>
     </p>
-    <p class="nav-tabs">
-      <a href="{{ '/' | relative_url }}" class="{% if page.tab == 'projects' %}active{% endif %}">Projects</a>
-      &nbsp;|&nbsp;
-      <a href="{{ '/experience.html' | relative_url }}" class="{% if page.tab == 'experience' %}active{% endif %}">Experience</a>
-      &nbsp;|&nbsp;
-      <a href="{{ '/awards.html' | relative_url }}" class="{% if page.tab == 'awards' %}active{% endif %}">Awards</a>
-      &nbsp;|&nbsp;
-      <a href="{{ '/personal.html' | relative_url }}" class="{% if page.tab == 'personal' %}active{% endif %}">Personal</a>
-    </p>
   </div>
   <div class="profile-photo">
     <img class="cover-photo" src="{{ profile.cover_photo | relative_url }}" alt="{{ profile.name }}">
   </div>
 </div>
+<p class="nav-tabs">
+  <a href="{{ '/' | relative_url }}" class="{% if page.tab == 'projects' %}active{% endif %}">Projects</a>
+  <a href="{{ '/experience.html' | relative_url }}" class="{% if page.tab == 'experience' %}active{% endif %}">Experience</a>
+  <a href="{{ '/awards.html' | relative_url }}" class="{% if page.tab == 'awards' %}active{% endif %}">Awards</a>
+  <a href="{{ '/personal.html' | relative_url }}" class="{% if page.tab == 'personal' %}active{% endif %}">Personal</a>
+</p>
