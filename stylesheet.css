@@ -107,10 +107,16 @@ body {
   margin: 8px 0 16px;
 }
 
-.tab-home img {
+.tab-projects img {
   width: 60%;
   max-width: 60%;
   margin: 8px auto 16px;
+}
+
+.tab-projects table img {
+  width: 160px;
+  max-width: 100%;
+  margin: 0;
 }
 
 .site-footer {
