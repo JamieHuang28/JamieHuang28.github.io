@@ -4,6 +4,10 @@ title: Awards
 tab: awards
 permalink: /awards.html
 ---
+# Graduate(2016-2019)
+## ## 1st Prize in 4th Design Competition of Petroleum Equipment (9%, National Level)
+
+Designed the whole software stack of this robot based on ROS (the first ROS package in my lab). The main functions are teleoperation and automatic biofouling boundary tracking control. For the auto-tracking function, I designed the traverse path planning algorithm and the MPC controller. Experiment is conducted on the steel structure of East China Sea oil platform.
 
 # Undergraduate(2012-2016)
 

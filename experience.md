@@ -9,12 +9,19 @@ permalink: /experience.html
 
 ### Horizon Robotics Co., Ltd. (2014-2016)
 
-Staff engineer of NOA (Navigate on Autopilot). Go through the tech-paradigm transition from Rule-based Planning to E2E Model.
+Staff engineer of NOA(Navigate on Autopilot). Go through the tech-paradigm transition from Rule-based Planning to E2E Model.
+- Solve the U-turn problem with E2E Model by expending model input.
+- Improve the safety of ego-VRU(vulnerable road users)-interaction scenario with Reinforcement Learning.
+- Improve the robustness of corner-case scenarios by augmenting data with 3DGS(3D Gaussian Splatting).
+- Improve the quality of data about cruse performance by cooperating with human-labeling group.
 
 ### Momenta Co., Ltd. (2019-2024)
 
-Tech Lead of AVP-PnC. Complete 3 generations of PnC algorithm. The 1st generation is hybrid A* algorithm, which is general but not human-like. The 2nd generation is human-experienced programming, which is human-like but not general. The 3rd generation is hybrid A* based on DL heuristic, which is human-like and general.
+Tech Lead of AVP-PnC. Go through the long journey from simple demo to massive production.
+- Setup the full stack of AVP, with both Cruse and Parking function.
+- Implement iLQR and optimize it's computation effort.
+- Improve certainty of hybrid A* with Transformer.
 
 ### Huawei 2012Lab (Internship, 2018)
 
-Visualization of CNN with Deconvolution method based on Caffe.
+Visualization of CNN with Deconvolution method.
