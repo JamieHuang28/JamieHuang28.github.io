@@ -12,7 +12,9 @@ permalink: /awards.html
     </td>
   </tr>
   <tr>
-    <td class="project-thumb"></td>
+    <td class="project-thumb">
+      <img src="./resources/ucr_working.jpg" alt="UCR Working">
+    </td>
     <td class="project-body">
       <span class="project-title">1st Prize in 4th Design Competition of Petroleum Equipment (9%, National Level)</span>
       <p>Designed the whole software stack of this robot based on ROS (the first ROS package in my lab). The main functions are teleoperation and automatic biofouling boundary tracking control. For the auto-tracking function, I designed the traverse path planning algorithm and the MPC controller. The experiment was conducted on the steel structure of an East China Sea oil platform.</p>
@@ -47,9 +49,11 @@ permalink: /awards.html
     </td>
   </tr>
   <tr>
-    <td class="project-thumb"></td>
+    <td class="project-thumb">
+      <img src="./resources/physics_olympiad.jpeg" alt="Physics Olympiad">
+    </td>
     <td class="project-body">
-      <span class="project-title">3rd Place (Province Level) in Chinese Physics Olympiad</span>
+      <span class="project-title">1st Prize (3rd Place Province Level) in Chinese Physics Olympiad</span>
       <p>Admitted  to Tsinghua Univ. (Biological Department), Peking Univ. (Medical Department), Shanghai Jiao Tong Univ., and Zhejiang Univ. without the entrance examination.</p>
     </td>
   </tr>
