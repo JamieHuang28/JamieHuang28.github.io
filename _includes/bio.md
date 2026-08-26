@@ -1,7 +1,3 @@
----
-layout: null
----
-
 I am a staff engineer of NOA (Navigate on Autopilot) at Horizon Robotics.
 Prior to Horizon Robotics, I was a staff engineer of AVP(Automatic Valet Parking) at Momenta.
 

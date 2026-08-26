@@ -53,7 +53,7 @@ permalink: /awards.html
       <img src="./resources/physics_olympiad.jpeg" alt="Physics Olympiad">
     </td>
     <td class="project-body">
-      <span class="project-title">1st Prize (3rd Place Province Level) in Chinese Physics Olympiad</span>
+      <span class="project-title">1st Prize (3rd Place on Province Level) in Chinese Physics Olympiad</span>
       <p>Admitted  to Tsinghua Univ. (Biological Department), Peking Univ. (Medical Department), Shanghai Jiao Tong Univ., and Zhejiang Univ. without the entrance examination.</p>
     </td>
   </tr>

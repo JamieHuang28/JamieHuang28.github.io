@@ -2,10 +2,8 @@
 <div class="profile">
   <div class="profile-bio">
     <p class="profile-name">{{ profile.name }}</p>
-    {% assign bio_page = site.pages | where: "path", "bio.md" | first %}
-    {% if bio_page %}
-    {{ bio_page.content }}
-    {% endif %}
+    {% capture bio %}{% include bio.md %}{% endcapture %}
+    {{ bio | markdownify }}
     <p class="profile-links">
       <a href="mailto:{{ profile.email }}">Email</a> &nbsp;/&nbsp;
       <a href="{{ profile.github }}">Github</a>
