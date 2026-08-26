@@ -2,9 +2,9 @@
 layout: null
 ---
 
-I am a staff engineer of NOA(Navigate on Autopilot) in Horizon Robotics.
-Prior to Horizon Robotics, I was a staff engineer of NOA in Momenta.
+I am a staff engineer of NOA (Navigate on Autopilot) at Horizon Robotics.
+Prior to Horizon Robotics, I was a staff engineer of NOA at Momenta.
 
-Prior to Work, I was a Master&Bachelor student at Zhejiang University(both recommended without examitation).
+Prior to work, I was a master's and bachelor's student at Zhejiang University (both recommended without examination).
 
-I am intersted in Robotics, Reinforcement Learning, and NLP.
+I am interested in robotics, reinforcement learning, and NLP.
