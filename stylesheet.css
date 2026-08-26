@@ -63,7 +63,7 @@ body {
 }
 
 .nav-tabs a {
-  font-size: 16px;
+  font-size: 24px;
 }
 
 .nav-tabs a.active {
@@ -107,7 +107,8 @@ body {
   margin: 8px 0 16px;
 }
 
-.tab-projects img {
+.tab-projects img,
+.tab-personal img {
   width: 60%;
   max-width: 60%;
   margin: 8px auto 16px;

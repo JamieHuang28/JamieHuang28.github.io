@@ -5,9 +5,7 @@ tab: personal
 permalink: /personal.html
 ---
 
-# Personal
-
-## Music
+# Music
 
 I am the bass player in my band Madame Roland.
 
@@ -17,7 +15,7 @@ I also love classical music. This photo was taken in Vienna.
 
 ![Vienna Golden Hall](./resources/vienna_golden_hall.jpeg)
 
-## Airplane Model
+# Airplane Model
 
 I have built airplane models since college. I prefer fixed-wing model aircraft.
 

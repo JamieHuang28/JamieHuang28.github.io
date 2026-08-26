@@ -3,14 +3,12 @@ layout: default
 tab: projects
 ---
 
-# Projects
+My projects span from Computer Vision, Robot Manipulation to Search and Optimization.
 
-My projects span from computer vision and robot manipulation to search and optimization.
-
-## OpenVLA Improvement (under implementation)
+# OpenVLA Improvement (under implementation)
 In July and August of 2026, [Patch Policy (in JEPA)](https://arxiv.org/abs/2607.18236) and [Q-Learning with World Models](https://arxiv.org/pdf/2608.17163) were published. They are all about how to learn with fewer shots, yet no open-source integration of them is available.
 
-## [VisualLanguageAlignment (source code)](https://github.com/JamieHuang28/VisualLanguageAlignment)
+# VisualLanguageAlignment [(source code)](https://github.com/JamieHuang28/VisualLanguageAlignment)
 
 <table>
   <tr>
@@ -23,7 +21,7 @@ In July and August of 2026, [Patch Policy (in JEPA)](https://arxiv.org/abs/2607.
   </tr>
 </table>
 
-## [MEMOofMAML: a simple illustration of meta-learning](https://github.com/JamieHuang28/MEMOofMAML)
+# MEMOofMAML: a simple illustration of meta-learning [(source code)](https://github.com/JamieHuang28/MEMOofMAML)
 
 <table>
   <tr>
@@ -36,7 +34,7 @@ In July and August of 2026, [Patch Policy (in JEPA)](https://arxiv.org/abs/2607.
   </tr>
 </table>
 
-## [iLQR from Scratch (source code)](https://github.com/JamieHuang28/iterative-linear-quadratic-regulator)
+# iLQR from Scratch [(source code)](https://github.com/JamieHuang28/iterative-linear-quadratic-regulator)
 
 <table>
   <tr>
@@ -54,13 +52,13 @@ In July and August of 2026, [Patch Policy (in JEPA)](https://arxiv.org/abs/2607.
   </tr>
 </table>
 
-## [Auto-Tuning hybrid A* (under implementation)](https://github.com/JamieHuang28/hybrid_astar_algorithm)
+# Auto-Tuning hybrid A* [(under recovery)](https://github.com/JamieHuang28/hybrid_astar_algorithm)
 By intuition, over 1,000 collected data points are enough to tune the 3 major parameters. This work is a simple yet efficient method to achieve it with the SWO algorithm. (It was implemented during my career at Momenta, but the source code is missing for now.)
 
-## [NanoNonlinearOptimizationSolver (source code)](https://github.com/JamieHuang28/NanoNonlinearOptimizationSolver)
+# NanoNonlinearOptimizationSolver [(source code)](https://github.com/JamieHuang28/NanoNonlinearOptimizationSolver)
 This mini project implements a prototype of a nonlinear solver with only hundreds of lines of code.
 
-## [underwater-cleaning-robot-ros (source code)](https://github.com/JamieHuang28/underwater-cleaning-robot-ros)
+# [underwater-cleaning-robot-ros (source code)](https://github.com/JamieHuang28/underwater-cleaning-robot-ros)
 
 <table>
   <tr>
