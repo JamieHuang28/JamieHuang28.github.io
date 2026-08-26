@@ -5,7 +5,7 @@ tab: experience
 permalink: /experience.html
 ---
 
-# Horizon Robotics Co., Ltd. (2014-2016)
+# Horizon Robotics Co., Ltd. (2024-2026)
 
 Staff engineer of NOA (Navigate on Autopilot). Went through the tech-paradigm transition from rule-based planning to an end-to-end model.
 - Solve the U-turn problem with an end-to-end model by expanding the model input.

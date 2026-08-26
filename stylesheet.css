@@ -140,6 +140,17 @@ body {
   font-weight: 700;
 }
 
+.project-title a {
+  font-size: 14px;
+  font-weight: 700;
+}
+
+.section-title {
+  font-family: 'Lato', Verdana, Helvetica, sans-serif;
+  font-size: 22px;
+  font-weight: normal;
+}
+
 .project-list p {
   margin: 0.6em 0 0;
 }
@@ -163,7 +174,8 @@ body {
   margin: 8px auto 16px;
 }
 
-.tab-projects .project-list img {
+.tab-projects .project-list img,
+.tab-awards .project-list img {
   width: auto;
   max-width: 100%;
   margin: 0;
