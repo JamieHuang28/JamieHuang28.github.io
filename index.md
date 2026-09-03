@@ -9,8 +9,8 @@ My projects span from Robot Manipulation, Computer Vision to Search and Optimiza
   <tr>
     <td class="project-thumb"></td>
     <td class="project-body">
-      <span class="project-title">OpenVLA Improvement (under implementation)</span>
-      <p>In July and August of 2026, <a href="https://arxiv.org/abs/2607.18236">Patch Policy (in JEPA)</a> and <a href="https://arxiv.org/pdf/2608.17163">Q-Learning with World Models</a> were published. They are all about how to learn with fewer shots, yet no open-source integration of them is available.</p>
+      <span class="project-title">QWM application to VLA(under implementation)</span>
+      <p>In August of 2026, <a href="https://arxiv.org/pdf/2608.17163">Q-Learning with World Models</a> were published. It is an idea of sample efficiency, yet no source code is valid.</p>
     </td>
   </tr>
   <tr>
