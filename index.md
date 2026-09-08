@@ -3,16 +3,9 @@ layout: default
 tab: projects
 ---
 
-My projects span from Robot Manipulation, Computer Vision to Search and Optimization.
+My projects span from Imitation Learning to Search and Optimization.
 
 <table class="project-list">
-  <tr>
-    <td class="project-thumb"></td>
-    <td class="project-body">
-      <span class="project-title">QWM application to VLA(under implementation)</span>
-      <p>In August of 2026, <a href="https://arxiv.org/pdf/2608.17163">Q-Learning with World Models</a> were published. It is an idea of sample efficiency, yet no source code is valid.</p>
-    </td>
-  </tr>
   <tr>
     <td class="project-thumb">
       <img src="./resources/eval_train.png" alt="vla_train_figure">
