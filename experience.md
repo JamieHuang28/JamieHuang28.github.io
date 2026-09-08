@@ -7,7 +7,7 @@ permalink: /experience.html
 
 # Horizon Robotics Co., Ltd. (2024-2026)
 
-Staff engineer of NOA (Navigate on Autopilot). Went through the tech-paradigm transition from rule-based planning to an end-to-end model.
+Staff engineer of HSD (Horizon SuperDrive). Went through the tech-paradigm transition from rule-based planning to an end-to-end model.
 - Solve the U-turn problem with an end-to-end model by expanding the model input.
 - Improve the safety of the ego-VRU (vulnerable road user) interaction scenario with reinforcement learning.
 - Improve the robustness of corner-case scenarios by augmenting data with 3DGS (3D Gaussian Splatting).

@@ -1,4 +1,4 @@
-I am a staff engineer of NOA (Navigate on Autopilot) at Horizon Robotics.
+I am a staff engineer of HSD (Horizon SuperDrive) at Horizon Robotics.
 Prior to Horizon Robotics, I was a staff engineer of AVP(Automatic Valet Parking) at Momenta.
 
 Prior to work, I was a Master's and Bachelor's student at Zhejiang University (both admitted without the entrance examination).
