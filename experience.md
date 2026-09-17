@@ -13,7 +13,7 @@ Staff engineer of HSD (Horizon SuperDrive). Went through the tech-paradigm trans
 - Improve the robustness of corner-case scenarios by augmenting data with 3DGS (3D Gaussian Splatting).
 - Improve the quality of data about cruise performance by cooperating with the human-labeling group.
 
-# Momenta Co., Ltd. (2019-2024)
+# Momenta Global Inc. (2019-2024)
 
 Tech Lead of AVP-PnC. Went through the long journey from a simple demo to mass production.
 - Set up the full stack of AVP, with both cruise and parking functions.

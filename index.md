@@ -21,7 +21,7 @@ My projects span from Imitation Learning to Search and Optimization.
     </td>
     <td class="project-body">
       <span class="project-title">MEMOofMAML: a simple illustrative memo of meta-learning (<a href="https://github.com/JamieHuang28/MEMOofMAML">source code</a>)</span>
-      <p><a href="https://arxiv.org/abs/1703.03400">MAML (model-agnostic meta-learning)</a> is an algorithm that can "pretrain" a neural network with few-shot learning. It is applicable to all learning tasks without any change. This document is a memo that tries to illustrate this classic work clearly.</p>
+      <p><a href="https://arxiv.org/abs/1703.03400">MAML (model-agnostic meta-learning)</a> is an algorithm that can "pretrain" a neural network with few-shot learning. It is applicable to all learning tasks without any change of model. This document is a memo that tries to illustrate this classic work clearly.</p>
     </td>
   </tr>
   <tr>
@@ -39,10 +39,12 @@ My projects span from Imitation Learning to Search and Optimization.
     </td>
   </tr>
   <tr>
-    <td class="project-thumb"></td>
+    <td class="project-thumb">
+      <img src="./resources/open_auto_parking_demo_2.png" alt="open_auto_parking_figure">
+    </td>
     <td class="project-body">
-      <span class="project-title">Auto-Tuning hybrid A* (<a href="https://github.com/JamieHuang28/hybrid_astar_algorithm">under recovery</a>)</span>
-      <p>By intuition, over 1,000 collected data points are enough to tune the 3 major parameters. This work is a simple yet efficient method to achieve it with the SWO algorithm. (It was implemented during my career at Momenta, but the source code is missing for now.)</p>
+      <span class="project-title">Distill hybrid A* to Model(<a href="https://github.com/JamieHuang28/hybrid_astar_algorithm">under recovery</a>)</span>
+      <p>By intuition, SOTA hybrid A* is a good teacher for a model. This project builds a model based on transformer, with 0.003B parameters. (It was implemented during my career at Momenta, but the source code is missing for now. Only code of hybrid A* is temporarily provided)</p>
     </td>
   </tr>
   <tr>
