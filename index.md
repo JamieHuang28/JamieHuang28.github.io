@@ -8,15 +8,6 @@ My projects span from Imitation Learning to Search and Optimization.
 <table class="project-list">
   <tr>
     <td class="project-thumb">
-      <img src="./resources/eval_train.png" alt="vla_train_figure">
-    </td>
-    <td class="project-body">
-      <span class="project-title">VisualLanguageAlignment (<a href="https://github.com/JamieHuang28/VisualLanguageAlignment">source code</a>)</span>
-      <p>How to pair given images with given describing sentences? (This is called Visual-Semantic Alignment.) Although <a href="https://karpathy.ai/">Karpathy</a> himself implements an image description generation model, <a href="https://github.com/karpathy/neuraltalk2">NeuralTalk2</a>, for the paper <a href="https://cs.stanford.edu/people/karpathy/deepimagesent/">Karpathy et al. CVPR 2015</a>, the Visual-Semantic Alignment model is left blank. This project provides a complete implementation in an up-to-date transformer style.</p>
-    </td>
-  </tr>
-  <tr>
-    <td class="project-thumb">
       <img src="./resources/MAML_param_updates_B.png" alt="MAML_figure">
     </td>
     <td class="project-body">
@@ -45,6 +36,15 @@ My projects span from Imitation Learning to Search and Optimization.
     <td class="project-body">
       <span class="project-title">Distill hybrid A* to Model(<a href="https://github.com/JamieHuang28/hybrid_astar_algorithm">under recovery</a>)</span>
       <p>By intuition, SOTA hybrid A* is a good teacher for a model. This project builds a model based on transformer, with 0.003B parameters. (It was implemented during my career at Momenta, but the source code is missing for now. Only code of hybrid A* is temporarily provided)</p>
+    </td>
+  </tr>
+  <tr>
+    <td class="project-thumb">
+      <img src="./resources/eval_train.png" alt="vla_train_figure">
+    </td>
+    <td class="project-body">
+      <span class="project-title">VisualLanguageAlignment (<a href="https://github.com/JamieHuang28/VisualLanguageAlignment">source code</a>)</span>
+      <p>How to pair given images with given describing sentences? (This is called Visual-Semantic Alignment.) Although <a href="https://karpathy.ai/">Karpathy</a> himself implements an image description generation model, <a href="https://github.com/karpathy/neuraltalk2">NeuralTalk2</a>, for the paper <a href="https://cs.stanford.edu/people/karpathy/deepimagesent/">Karpathy et al. CVPR 2015</a>, the Visual-Semantic Alignment model is left blank. This project provides a complete implementation in an up-to-date transformer style.</p>
     </td>
   </tr>
   <tr>
