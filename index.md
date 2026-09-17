@@ -31,11 +31,11 @@ My projects span from Imitation Learning to Search and Optimization.
   </tr>
   <tr>
     <td class="project-thumb">
-      <img src="./resources/open_auto_parking_demo_2.png" alt="open_auto_parking_figure">
+      <img src="./resources/open_auto_parking_demo.png" alt="open_auto_parking_figure">
     </td>
     <td class="project-body">
       <span class="project-title">Distill hybrid A* to Model(<a href="https://github.com/JamieHuang28/hybrid_astar_algorithm">under recovery</a>)</span>
-      <p>By intuition, SOTA hybrid A* is a good teacher for a model. This project builds a model based on transformer, with 0.003B parameters. (It was implemented during my career at Momenta, but the source code is missing for now. Only code of hybrid A* is temporarily provided)</p>
+      <p>By intuition, SOTA hybrid A* is a good teacher for a model. This project builds a model based on transformer, with 0.003B parameters. (It was implemented during my career at Momenta. So only code of hybrid A* is temporarily provided)</p>
     </td>
   </tr>
   <tr>
